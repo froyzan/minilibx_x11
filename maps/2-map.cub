@@ -1,0 +1,18 @@
+R 800 600
+
+NO ./textures/brick.xpm
+SO ./textures/stone.xpm
+WE ./textures/cave.xpm
+EA ./textures/wood.xpm
+
+S ./textures/guard.xpm
+
+F 0,100,255
+C 45,80,80
+
+111111111111
+100200000001
+100000000001
+100N00011111
+10000001
+11111111
