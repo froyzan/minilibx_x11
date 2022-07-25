@@ -7,8 +7,8 @@ EA ./textures/wood.xpm
 
 S ./textures/guard.xpm
 
-F 0,100,255
-C 45,80,80
+C 0,100,255
+F 45,80,80
 
 111111111111
 100200000001
