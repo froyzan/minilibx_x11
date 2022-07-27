@@ -2,7 +2,7 @@
 
 int			main(int argc, char **argv)
 {
-	int			fd;
+	int		fd;
 	char		*path;
 	t_params	tmp;
 
