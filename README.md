@@ -1,4 +1,4 @@
-![](https://github.com/froyzan/minilibx_x11/blob/main/screenshot.jpg)
+![](https://github.com/froyzan/minilibx_x11/blob/main/screenshot.png)
 
 ## Install
 `sudo apt-get install libbsd-dev libx11-dev libxext-dev`
